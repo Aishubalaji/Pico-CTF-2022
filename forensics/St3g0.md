@@ -5,7 +5,7 @@ Download image(https://artifacts.picoctf.net/c/427/pico.flag.png)
 ```
 
 This is a Steganography Challenge and a png file is given "pico.flag.png".
-We tried many stego but nothing led me to the flag until i tried **StegSolve**.
+We tried many stego tools but nothing led me to the flag until i tried **StegSolve**.
 
 So We used StegSolve tool, analysed the image with Data extract.
 
